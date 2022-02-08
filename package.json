@@ -1,0 +1,20 @@
+{
+  "name": "creatingagitrepofromscratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmiliaHernandez/CreatingaGitRepofromScratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmiliaHernandez/CreatingaGitRepofromScratch/issues"
+  },
+  "homepage": "https://github.com/EmiliaHernandez/CreatingaGitRepofromScratch#readme"
+}
